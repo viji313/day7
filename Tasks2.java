@@ -1,7 +1,7 @@
 package day7;
 
 public class Tasks2 {
-	String name="elephant";
+	String name="monkey";
 	char c[]= name.toCharArray();
 	
 
